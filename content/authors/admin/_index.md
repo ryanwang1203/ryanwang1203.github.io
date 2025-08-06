@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: Ryan (Yunsheng) Wang
+title: Ryan Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -12,7 +12,7 @@ last_name: Wang
 
 # Status emoji
 status:
-  icon: "☕️"
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student in Mechanical Engineering
+role: Ph.D Student in Mechanical Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -151,9 +151,8 @@ awards:
 
 ## About Me
 
-I am a first‑year Ph.D. student in Mechanical Engineering at **Santa Clara University**, advised by **Dr. Jun Wang**.  
-My research explores the intersection of **Generative AI** and **computational mechanics**, aiming to automate the design of high‑performance metamaterials for automotive and aerospace applications.
-
-Previously, I earned an **M.S. in Imaging Science** from *Washington University in St. Louis*, where I worked on super‑resolution ultrasound imaging pipelines and vision‑based Alzheimer’s screening.
-
-Outside the lab, you’ll find me composing on the piano, perfecting latte art, or walking my miniature long‑haired dachshund, **Lucky**.
+Hi! I’m a Ph.D. student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on AI for Mechanical Design and Geometric Simulation.
+In industry, I’ve worked on knowledge graph-powered AI chatbots at <strong>Lenovo</strong>, where I received the VP Instant Award for AI innovation 
+      (<a href="/files/VPaward.pdf">certificate</a>). I also published research on Jingdong’s self-built logistics system in 
+      <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>.  
+Outside the lab, I enjoy playing piano and guitar, swimming, and walking my dog, Lucky.
