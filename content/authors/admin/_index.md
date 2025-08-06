@@ -53,31 +53,31 @@ education:
     date_start: 2025-09-01
     date_end: 2029-06-30
     summary: |
-      Research on **Generative AI‑Driven Metamaterial Design** under the supervision of [Dr. Jun Wang](https://www.scu.edu/engineering/faculty/wang-jun/).
+      Research on generative AI for metamaterial design and simulation.
   - area: MS Imaging Science
-    institution: Washington University (St. Louis)
+    institution: Washington University in St. Louis
     date_start: 2023-08-01
     date_end: 2025-05-31
     summary: |
-      Research on Computational Imaging.
-  - area: BS Computer & Information Science
+      Research on machine learning for computational imaging.
+  - area: BS Computer and Information Science
     institution: Shenzhen University
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      Undergraduate research on machine‑learning‑based fire‑detection systems for subway safety.
+      Undergraduate research on machine‑learning‑based subway fire‑detection systems.
 
 # Work Experience
 work:
-  - position: Algorithm Engineering Intern
-    company_name: Lenovo Research
+  - position: Research Intern
+    company_name: Lenovo
     company_url: ''
     date_start: 2024-05-01
     date_end: 2024-08-31
     summary: |
-      • Built a large‑scale **knowledge graph** for Lenovo’s service manuals.  
-      • Developed an **AI‑enhanced chatbot** using LangChain and OpenAI APIs.  
-      • Awarded the **VP Instant Award** for innovation.
+      • Built a large‑scale knowledge graph for Lenovo’s computer components.  
+      • Developed an LLM‑enhanced chatbot using LangChain and OpenAI APIs.  
+      • Awarded the VP Instant Award for innovation.
 
 # Awards
 awards:
