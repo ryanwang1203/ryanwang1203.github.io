@@ -55,12 +55,12 @@ education:
     summary: |
       Research on **Generative AI‑Driven Metamaterial Design** under the supervision of [Dr. Jun Wang](https://www.scu.edu/engineering/faculty/wang-jun/).
   - area: MS Imaging Science
-    institution: Washington University in St. Louis
+    institution: Washington University (St. Louis)
     date_start: 2023-08-01
     date_end: 2025-05-31
     summary: |
       Research on Computational Imaging.
-  - area: B.S. Computer & Information Science
+  - area: BS Computer & Information Science
     institution: Shenzhen University
     date_start: 2019-09-01
     date_end: 2023-06-30
@@ -92,8 +92,6 @@ awards:
 
 ## About Me
 
-Hi! I’m a Ph.D. student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on AI for Mechanical Design and Geometric Simulation.
-In industry, I’ve worked on knowledge graph-powered AI chatbots at <strong>Lenovo</strong>, where I received the VP Instant Award for AI innovation 
-      (<a href="/files/VPaward.pdf">certificate</a>). I also published research on Jingdong’s self-built logistics system in 
-      <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>.  
+I’m a PhD student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on AI for Mechanical Design and Geometric Simulation.
+I was a Research Intern at <strong>Lenovo</strong>, where I worked on knowledge graph and LLM-powered chatbots and received the VP Instant Award for AI innovation. I also published research on Jingdong’s self-built logistics system in <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>.  
 Outside the lab, I enjoy playing piano and guitar, swimming, and walking my dog, Lucky.
