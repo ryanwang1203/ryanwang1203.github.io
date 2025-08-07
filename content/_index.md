@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: zetong-li-uSITM9q5pfk-unsplash.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.6
           size: cover
           position: center
           parallax: false
