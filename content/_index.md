@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Ph.D. student in Mechanical Engineering with a Computer Science background. My work focus on using generative AI to design and simulate more efficient metamaterials for automotive and aerospace systems. 
+        My work focuses on applying generative AI and geometric simulation to design lightweight, high-efficiency metamaterials for automotive and aerospace systems. I develop data-driven design workflows that integrate physical simulation with AI-based optimization. I’m particularly interested in how AI can accelerate the inverse design of materials with complex structural behaviors.
         Please reach out to collaborate 😃
     design:
       columns: '1'
