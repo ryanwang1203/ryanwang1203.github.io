@@ -61,7 +61,7 @@ education:
     date_end: 2025-05-12
     summary: |
       Research on machine learning for computational imaging.
-  - area: BS Computer and Information Science
+  - area: BS Computer & Information Science
     institution: Shenzhen University
     date_start: 2019-09-01
     date_end: 2023-06-30
@@ -87,7 +87,7 @@ awards:
     awarder: Lenovo Research
     icon: award
     summary: |
-      Recognized for pioneering a LLM‑powered service chatbot combining knowledge graphs that reduced issue‑resolution time by 35%.
+      Recognized for developing a LLM‑powered service chatbot combining knowledge graphs that reduced issue‑resolution time by 35%.
 
 ---
 
