@@ -43,9 +43,9 @@ profiles:
 # Research Interests
 interests:
   - Generative AI
-  - Machine Learning
-  - Geometric Simulation
-  - Metamaterial Design
+  - Mechanical Design
+  - Geometric Modeling
+  - Simulation
 
 # Education
 education:
@@ -54,7 +54,7 @@ education:
     date_start: 2025-09-22
     date_end: 2029-06-15
     summary: |
-      Research on generative AI for metamaterial design and simulation.
+      Research on generative AI for mechanical design and geometric modeling.
   - area: MS Imaging Science
     institution: Washington University in St. Louis
     date_start: 2023-08-09
@@ -93,5 +93,5 @@ awards:
 
 ## About Me
 
-I’m a PhD student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on AI for Mechanical Design and Geometric Simulation.
+I’m a PhD student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on generative AI for Mechanical Design and Geometric Modeling.
 I was a Research Intern at <strong>Lenovo</strong>, where I worked on knowledge graph and LLM-powered chatbots and earned the VP Instant Award for AI innovation. I also published research on Jingdong’s self-built logistics system in <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>. In my spare time, I enjoy playing piano and guitar, and walking my dog.
