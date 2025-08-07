@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: zetong-li-uSITM9q5pfk-unsplash.jpg
+          filename: bayarea.jpg
           filters:
-            brightness: 0.5
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
