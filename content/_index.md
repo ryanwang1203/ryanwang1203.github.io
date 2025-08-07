@@ -35,10 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-    <div style="text-align: justify;">
-        My work focuses on applying generative AI and geometric simulation to design lightweight, high-efficiency metamaterials for automotive and aerospace systems. I develop data-driven design workflows that integrate physical simulation with AI-based optimization. I’m particularly interested in how AI can accelerate the inverse design of materials with complex structural behaviors.
-        Please reach out to collaborate 😃
-    </div>
+        <div style="text-align: justify;">
+        My work focuses on applying generative AI and geometric simulation to design lightweight, high-efficiency metamaterials for automotive and aerospace systems. I develop data-driven design workflows that integrate physical simulation with AI-based optimization. I’m particularly interested in how AI can accelerate the inverse design of materials with complex structural behaviors. Please reach out to collaborate 😃
+        </div>
     design:
       columns: '1'
 
