@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "8rem"
 
 sections:
   - block: resume-biography-3
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bayarea.jpg
           filters:
-            brightness: 0.3
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
