@@ -93,5 +93,7 @@ awards:
 
 ## About Me
 
+<div style="text-align: justify;">
 I’m a PhD student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on Generative AI for Computational Design and Geometric Modeling.
 I was a Research Intern at <strong>Lenovo</strong>, where I worked on knowledge graph and LLM-powered chatbots and earned the VP Instant Award for AI innovation. I also published research on Jingdong’s self-built logistics system in <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>. In my spare time, I enjoy playing piano and guitar, and walking my dog.
+</div>
