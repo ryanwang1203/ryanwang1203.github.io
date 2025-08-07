@@ -43,6 +43,7 @@ profiles:
 # Research Interests
 interests:
   - Generative AI
+  - Machine Learning
   - Geometric Simulation
   - Metamaterial Design
 
@@ -65,7 +66,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      Undergraduate research on machine‑learning‑based subway fire‑detection systems.
+      Undergraduate research on machine learning for subway fire detection.
 
 # Work Experience
 work:
@@ -86,12 +87,11 @@ awards:
     awarder: Lenovo Research
     icon: award
     summary: |
-      Recognized for pioneering a LLM‑powered service chatbot combining knowledge graphs that reduced issue‑resolution time by **35 %**.
+      Recognized for pioneering a LLM‑powered service chatbot combining knowledge graphs that reduced issue‑resolution time by 35%.
 
 ---
 
 ## About Me
 
 I’m a PhD student in Mechanical Engineering, working under the guidance of <a href="https://www.scu.edu/engineering/faculty/wang-jun/">Dr. Jun Wang</a>. My research focuses on AI for Mechanical Design and Geometric Simulation.
-I was a Research Intern at <strong>Lenovo</strong>, where I worked on knowledge graph and LLM-powered chatbots and earned the VP Instant Award for AI innovation. I also published research on Jingdong’s self-built logistics system in <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>.  
-In my spare time, I enjoy playing piano and guitar, and walking my dog.
+I was a Research Intern at <strong>Lenovo</strong>, where I worked on knowledge graph and LLM-powered chatbots and earned the VP Instant Award for AI innovation. I also published research on Jingdong’s self-built logistics system in <a href="https://bcpublication.org/index.php/BM/article/view/3751">BCPublication</a>. In my spare time, I enjoy playing piano and guitar, and walking my dog.
