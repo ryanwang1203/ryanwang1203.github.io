@@ -1,0 +1,100 @@
+title: "Ryan Wang"
+subtitle: "Ph.D. Student • Mechanical Engineering • Generative AI for Design"
+name: "Ryan Wang"
+description: "Mechanical Engineering Ph.D. student at Santa Clara University working on AI-driven computational mechanical design, geometric modeling, and generative design."
+url: "https://ryanwang1203.github.io"
+baseurl: ""
+repository: "ryanwang1203/ryanwang1203.github.io"
+
+# Minimal Mistakes (GitHub Pages-compatible)
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+
+locale: "en-US"
+timezone: "America/Los_Angeles"
+
+# Author / social
+author:
+  name: "Ryan Wang"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Ph.D. student at Santa Clara University. I work on AI-driven computational mechanical design, geometric modeling, and generative design."
+  location: "Santa Clara, CA"
+  email: "iamryansheng@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryanwang1203"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ryan-wang-543abb2ba"
+
+# Navigation
+minimal_mistakes_skin: "default"
+header_pages:
+  - news.md
+  - papers.md
+  - projects.md
+  - experience.md
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /papers/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Pagination
+paginate: 5
+paginate_path: /news/page:num/
