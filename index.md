@@ -5,18 +5,13 @@ title: ""
 permalink: /
 ---
 
-Hi! I'm **Ryan (Yunsheng) Wang**, a Ph.D. student in **Mechanical Engineering** at **Santa Clara University** (Sep 2025–expected 2029).
-My work focuses on applying **generative AI, machine learning, and geometric modeling** to **computational mechanical design**.
+Hi! I'm Ryan Wang, a Ph.D. student in Mechanical Engineering with a background in Computer Science.
+My work focuses on applying generative AI, machine learning, and geometric modeling methods to advance mechanical design. I worked as an Algorithm Engineer Intern at Lenovo, contributed to knowledge graph construction and LLM-powered chatbots, and earned the VP Instant Award for AI Innovation. I’ve also published research on Jingdong’s self-built logistics system in BCPublication. In my free time, I enjoy playing the piano and guitar. 
 
 <div id="my-research"></div>
 
 ## My Research
 
-I'm broadly interested in building **AI systems that can propose, evaluate, and optimize mechanical designs** under physics and manufacturing constraints.
+My work asks three questions: How do we design complex structures when every evaluation costs time and money? How can AI actually assist mechanical design? How can humans and machines collaborate without the engineer giving up control? I build computational pipelines that connect geometric modeling, mechanical simulation, machine learning, and generative AI, so engineers can explore more of the design space with fewer expensive evaluations, and still make the final decisions.
 
-Current themes:
-- **Generative AI for design** (design proposal, inverse design, constraint-aware generation)
-- **Geometric modeling & lattices** (e.g., TPMS / metamaterials)
-- **Surrogate modeling + optimization** (fast design space exploration with FEA in the loop)
-
-If you'd like to collaborate, feel free to reach out: **iamryansheng@gmail.com**.
+If you'd like to collaborate, feel free to reach out: **ywang54@scu.edu**.
