@@ -7,7 +7,7 @@ permalink: /
 
 Hi! I'm Ryan Wang, a Ph.D. student in Mechanical Engineering with a background in Computer Science. My work focuses on applying generative AI, machine learning, and geometric modeling methods to advance mechanical design. 
     
-I worked as an Algorithm Engineer Intern at Lenovo, contributed to knowledge graph construction and LLM-powered chatbots, and earned the VP Instant Award for AI Innovation. I’ve also published research on Jingdong’s self-built logistics system in BCPublication. In my free time, I enjoy playing the piano and guitar. 
+I worked as an Algorithm Engineer Intern at Lenovo, contributed to knowledge graph construction and AI chatbots, and earned the VP Instant Award for AI Innovation. I’ve also published research on Jingdong’s self-built logistics system. In my free time, I enjoy playing the piano and guitar. 
 
 <div id="my-research"></div>
 
