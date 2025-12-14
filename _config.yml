@@ -1,7 +1,7 @@
 title: "Ryan Wang"
 subtitle: "Ph.D. Student • AI Researcher"
 name: "Ryan Wang"
-description: "Mechanical Engineering Ph.D. student working on AI-driven computational mechanical design."
+description: "Mechanical Engineering Ph.D. student working on AI-driven computational design."
 url: "https://ryanwang1203.github.io"
 baseurl: ""
 repository: "ryanwang1203/ryanwang1203.github.io"
@@ -17,6 +17,9 @@ plugins:
 
 locale: "en-US"
 timezone: "America/Los_Angeles"
+
+# Skin
+minimal_mistakes_skin: "default"
 
 # Author / social
 author:
@@ -35,10 +38,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=CWkJY8gAAAAJ&hl=zh-CN"
-
-
-# Navigation
-minimal_mistakes_skin: "default"
 
 # Collections
 collections:
@@ -87,6 +86,7 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
+
 exclude:
   - README.md
   - LICENSE
