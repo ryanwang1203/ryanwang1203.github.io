@@ -1,5 +1,7 @@
 ---
-title: "Manufacturing course: DFM/DFA interview insights"
-date: 2025-12-11
+title: "Interview Visit: Meta Reality Labs"
+date: 2025-11-09
+permalink: /news/meta-reality-labs-interview/
 ---
-Completed a manufacturing-focused interview and distilled practical DFM/DFA insights for design-for-manufacture decisions.
+
+I visited Meta Reality Labs and interviewed the Ray-Ban Meta smart glasses team lead, Martin Zhang (design & manufacturing engineer）.
