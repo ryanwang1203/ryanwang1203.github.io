@@ -9,7 +9,10 @@ author_profile: true
 {% for p in pubs %}
 
 {% assign out = nil %}
-{% if p.links %}
+
+{%- if p.external_url -%}
+  {% assign out = p.external_url %}
+{%- elsif p.links -%}
   {% for l in p.links %}
     {% assign lab = l.label | downcase %}
     {% if lab == "paper" or lab == "doi" or lab == "pdf" %}
@@ -19,7 +22,7 @@ author_profile: true
   {% if out == nil %}
     {% assign out = p.links[0].url %}
   {% endif %}
-{% endif %}
+{%- endif -%}
 
 ### {% if out %}<a href="{{ out }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}<a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% endif %}
 
