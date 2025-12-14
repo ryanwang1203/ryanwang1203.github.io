@@ -3,10 +3,7 @@
 
 @import "minimal-mistakes";
 
-/* Times New Roman 全站字体 */
-body {
-  font-family: "Times New Roman", Times, serif;
-}
+$max-width: 1200px;
 
 /* 正文左右两端对齐 + 断词 */
 .page__content p {
