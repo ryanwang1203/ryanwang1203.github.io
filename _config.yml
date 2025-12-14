@@ -1,7 +1,7 @@
-title: "Ryan Wang"
+title: "Ryan Wang's Personal Website"
 subtitle: "Ph.D. Student • AI Researcher"
 name: "Ryan Wang"
-description: "Mechanical Engineering Ph.D. student working on AI-driven computational design."
+description: "Ph.D. student working on AI-driven computational design."
 url: "https://ryanwang1203.github.io"
 baseurl: ""
 repository: "ryanwang1203/ryanwang1203.github.io"
@@ -18,16 +18,13 @@ plugins:
 locale: "en-US"
 timezone: "America/Los_Angeles"
 
-# Skin
-minimal_mistakes_skin: "default"
-
 # Author / social
 author:
   name: "Ryan Wang"
   avatar: "/assets/images/Headshot.jpg"
-  bio: "Ph.D. student in Mechanical Engineering. I work on AI-driven computational mechanical design."
+  bio: "Ph.D. student working on AI-driven computational design."
   location: "Santa Clara, CA"
-  email: "iamryansheng@gmail.com"
+  email: "ywang54@scu.edu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -86,7 +83,6 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
-
 exclude:
   - README.md
   - LICENSE
