@@ -1,7 +1,7 @@
 title: "Ryan Wang"
-subtitle: "Ph.D. Student • Mechanical Engineering • Generative AI for Design"
+subtitle: "Ph.D. Student • AI Researcher"
 name: "Ryan Wang"
-description: "Mechanical Engineering Ph.D. student at Santa Clara University working on AI-driven computational mechanical design, geometric modeling, and generative design."
+description: "Mechanical Engineering Ph.D. student working on AI-driven computational mechanical design."
 url: "https://ryanwang1203.github.io"
 baseurl: ""
 repository: "ryanwang1203/ryanwang1203.github.io"
@@ -22,7 +22,7 @@ timezone: "America/Los_Angeles"
 author:
   name: "Ryan Wang"
   avatar: "/assets/images/profile.jpg"
-  bio: "Ph.D. student at Santa Clara University. I work on AI-driven computational mechanical design, geometric modeling, and generative design."
+  bio: "Ph.D. student in Mechanical Engineering. I work on AI-driven computational mechanical design."
   location: "Santa Clara, CA"
   email: "iamryansheng@gmail.com"
   links:
@@ -32,6 +32,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/ryan-wang-543abb2ba"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=CWkJY8gAAAAJ&hl=zh-CN"
+
 
 # Navigation
 minimal_mistakes_skin: "default"
