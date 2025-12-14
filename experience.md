@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## Education
-- **Ph.D., Mechanical Engineering**, Santa Clara University 
+- **PhD, Mechanical Engineering**, Santa Clara University 
 
-- **M.S., Imaging Science**, Washington University in St. Louis
+- **MS, Imaging Science**, Washington University in St. Louis
 
-- **B.S., Computer and Information Science**, Shenzhen University
+- **BS, Computer & Information Science**, Shenzhen University
 
 ## Industry
-- **Algorithm Engineering Intern**, Lenovo (May 2024 – Aug 2024)  
+- Algorithm Engineering Intern, Lenovo (May – Aug 2024)
   Constructed computer components knowledge graphs and built an KG integrated LLM chatbot using ChatGPT API and LangChain. Awarded the Lenovo VP Instant Award for AI Innovation. 
 
 ## Teaching
