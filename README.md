@@ -1,17 +1,6 @@
-# Ryan Wang — Personal Website (Clean Jekyll / GitHub Pages)
+# Ryan Wang — Personal Website
 
-This repo is a lightweight, low-maintenance personal website built with **Jekyll** + **Minimal Mistakes** via `remote_theme`,
-so you don't need to vendor a giant theme repo.
-
-## Deploy on GitHub Pages
-1. Create (or reuse) a repo named **ryanwang1203.github.io**.
-2. Put these files at the repo root.
-3. Go to **Settings → Pages**:
-   - Source: **Deploy from a branch**
-   - Branch: **main** / **root**
-4. Save. Your site should build automatically.
-
-## Where to edit content
+# Where to edit content
 - Home: `index.md`
 - News list: `news.md` + posts in `_posts/`
 - Papers list: `papers.md` + items in `_publications/`
