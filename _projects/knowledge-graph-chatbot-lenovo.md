@@ -7,3 +7,7 @@ highlights:
   - "Designed an AI chatbot using LangChain and OpenAI APIs."
   - "Earned the VP Instant Award for AI Innovation." 
 ---
+## Highlights
+{% for h in page.highlights %}
+- {{ h }}
+{% endfor %}
