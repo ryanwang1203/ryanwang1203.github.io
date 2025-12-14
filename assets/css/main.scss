@@ -1,0 +1,27 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Times New Roman 全站字体 */
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* 正文左右两端对齐 + 断词 */
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+
+  /* 自然段首行缩进 */
+  text-indent: 2em;
+}
+
+/* 标题后的第一段不缩进（更自然） */
+.page__content h1 + p,
+.page__content h2 + p,
+.page__content h3 + p,
+.page__content h4 + p {
+  text-indent: 0;
+}
