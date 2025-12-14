@@ -10,11 +10,6 @@ author_profile: true
 ### [{{ p.title }}]({{ p.url | relative_url }})
 {{ p.one_liner }}
 
-**Highlights**
-{% for h in p.highlights %}
-- {{ h }}
-{% endfor %}
-
 {% if p.links %}
 **Links:** 
 {% for l in p.links %}
