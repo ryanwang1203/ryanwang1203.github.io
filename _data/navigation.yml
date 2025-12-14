@@ -1,4 +1,6 @@
 main:
+  - title: "Bio"
+    url: /index/
   - title: "News"
     url: /news/
   - title: "Papers"
