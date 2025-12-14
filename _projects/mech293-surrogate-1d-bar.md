@@ -12,3 +12,7 @@ highlights:
 
 - **Report:** [Mech293FinalProj](/assets/files/Mech293FinalProj.pdf)
 - **Slides:** [Surrogate-Assisted Optimization of a 1D Heterogeneous Bar](/assets/files/Surrogate-Assisted%20Optimization%20of%20a%201D%20Heterogeneous%20Bar.pdf)
+## Highlights
+{% for h in page.highlights %}
+- {{ h }}
+{% endfor %}
