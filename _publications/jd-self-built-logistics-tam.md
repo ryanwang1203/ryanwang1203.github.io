@@ -1,15 +1,10 @@
 ---
-title: "Does self-built logistics improve e-retailers’ e-service quality? Evidence from JD Logistics"
-date: 2021-02-01
-venue: "Transportation Research Part E: Logistics and Transportation Review"
-citation: "Y. Wang, Y. Yu, X. Wu, &amp; J. Wang (2021). *Transportation Research Part E*, 145, 102132."
+title: "Research on Jing Dong's Self-built Logistics Based on Technology Acceptance Model"
+date: 2024-06-13
+venue: "arXiv preprint arXiv:2407.15011"
+citation: "Wang, Y., & Zhao, J. (2024). Research on Jing Dong's Self-built Logistics Based on Technology Acceptance Model. arXiv preprint arXiv:2407.15011."
 links:
   - label: "DOI"
-    url: "https://doi.org/10.1016/j.tre.2020.102132"
+    url: "[https://doi.org/10.1016/j.tre.2020.102132](https://bcpublication.org/index.php/BM/article/view/3751)"
 ---
 
-## Summary
-This paper studies how self-built logistics impacts e-retailers’ e-service quality, with evidence from JD Logistics.
-
-## Notes
-- If you have a PDF you can legally host, place it under `assets/files/` and add a link here.
