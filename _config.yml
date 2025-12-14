@@ -39,11 +39,6 @@ author:
 
 # Navigation
 minimal_mistakes_skin: "default"
-header_pages:
-  - news.md
-  - papers.md
-  - projects.md
-  - experience.md
 
 # Collections
 collections:
