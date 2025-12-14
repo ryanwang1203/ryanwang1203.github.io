@@ -1,1 +1,10 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Papers"
+    url: /papers/
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
 
