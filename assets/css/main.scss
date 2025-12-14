@@ -1,25 +1,15 @@
 ---
 ---
 
+$max-width: 1400px;
+
+$paragraph-indent: true;
+$indent-var: 2em;
+
 @import "minimal-mistakes";
 
-/* 只改“文字内容区域”的宽度（正文行宽） */
 .page__content {
-  max-width: 1100px;   /* 你可以试 900 / 1000 / 1100 / 1200 */
-}
-
-/* 正文左右两端对齐 + 首行缩进 */
-.page__content p {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
-  text-indent: 2em;
-}
-
-/* 标题后的第一段不缩进 */
-.page__content h1 + p,
-.page__content h2 + p,
-.page__content h3 + p,
-.page__content h4 + p {
-  text-indent: 0;
 }
