@@ -5,13 +5,12 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Research & Education
-- **Ph.D., Mechanical Engineering**, Santa Clara University (Sep 2025 – expected 2029)  
-  Focus: Generative AI, Machine Learning, Geometric modeling, Computational design (Advisor: Dr. Jun Wang)
+## Education
+- **Ph.D., Mechanical Engineering**, Santa Clara University 
 
-- **M.S., Imaging Science (Computational Imaging Track)**, Washington University in St. Louis (Aug 2023 – May 2025)
+- **M.S., Imaging Science**, Washington University in St. Louis
 
-- **B.S., Computer and Information Science**, Shenzhen University (Sep 2019 – Jun 2023)
+- **B.S., Computer and Information Science**, Shenzhen University
 
 ## Industry
 - **Algorithm Engineering Intern**, Lenovo (May 2024 – Aug 2024)  
