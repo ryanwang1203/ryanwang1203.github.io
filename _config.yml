@@ -1,7 +1,6 @@
 title: "Ryan Wang's Personal Website"
 subtitle: "Ph.D. Student • AI Researcher"
 name: "Ryan Wang"
-description: "AI-driven computational design."
 url: "https://ryanwang1203.github.io"
 baseurl: ""
 repository: "ryanwang1203/ryanwang1203.github.io"
@@ -22,7 +21,6 @@ timezone: "America/Los_Angeles"
 author:
   name: "Ryan Wang"
   avatar: "/assets/images/Headshot.jpg"
-  bio: "AI-driven computational design."
   location: "Santa Clara, CA"
   email: "ywang54@scu.edu"
   links:
