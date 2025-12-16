@@ -3,20 +3,30 @@
 
 @import "minimal-mistakes";
 
-/* Justify body text (main content only) */
+/* Pages / posts main body */
 .page__content,
 .page__content p,
 .page__content li,
-.page__content blockquote {
-  text-align: justify;
+.page__content blockquote,
+
+/* Home/archive lists (excerpts) */
+.archive__item-excerpt,
+.archive__item-excerpt p,
+.archive__item-excerpt li,
+
+/* Collection pages sometimes use these */
+.entries-list,
+.list__item,
+.taxonomy__section {
+  text-align: justify !important;
   text-justify: inter-word;
   hyphens: auto;
 }
 
-/* Keep code / preformatted text left-aligned */
-.page__content pre,
-.page__content code,
-.page__content .highlighter-rouge {
-  text-align: left;
+/* Keep code left aligned */
+pre,
+code,
+.highlighter-rouge {
+  text-align: left !important;
   hyphens: none;
 }
