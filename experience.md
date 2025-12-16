@@ -17,6 +17,6 @@ author_profile: true
   Constructed computer components knowledge graphs and built an AI chatbot using ChatGPT API and LangChain. Awarded the Lenovo VP Instant Award for AI Innovation. 
 
 ## Teaching
-- **TA**, MECH 12L, Engineering Graphics & CAD II (Solidworks), Santa Clara University
--  **Grader**, MECH 103 Math Methods in Mech Eng, Santa Clara University
--  **Grader**, MECH 200 Advanced Eng Math, Santa Clara University
+- **TA**, MECH 12L, Engineering Graphics and Computer Aided Design II (Solidworks), Santa Clara University
+-  **Grader**, MECH 103 Mathematical Methods in Mechanical Engineering, Santa Clara University
+-  **Grader**, MECH 200 Advanced Engineering Mathematics, Santa Clara University
