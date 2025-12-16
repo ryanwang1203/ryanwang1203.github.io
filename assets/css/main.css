@@ -1,0 +1,22 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Justify body text (main content only) */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content blockquote {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+/* Keep code / preformatted text left-aligned */
+.page__content pre,
+.page__content code,
+.page__content .highlighter-rouge {
+  text-align: left;
+  hyphens: none;
+}
