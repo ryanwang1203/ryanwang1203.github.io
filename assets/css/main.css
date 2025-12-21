@@ -10,16 +10,10 @@
 .page__content,
 .page__content p,
 .page__content li,
-.page__content blockquote
-
-/* Home/archive lists (excerpts) */
-,
+.page__content blockquote,
 .archive__item-excerpt,
 .archive__item-excerpt p,
-.archive__item-excerpt li
-
-/* Collection pages sometimes use these */
-,
+.archive__item-excerpt li,
 .entries-list,
 .list__item,
 .taxonomy__section {
