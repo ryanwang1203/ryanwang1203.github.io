@@ -36,6 +36,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=CWkJY8gAAAAJ&hl=zh-CN"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/Resume_Ryan_Wang.docx"
 
 # Collections
 collections:
