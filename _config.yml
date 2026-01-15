@@ -22,7 +22,7 @@ timezone: "America/Los_Angeles"
 # Author / social
 author:
   name: "Ryan Wang"
-  avatar: "/assets/images/Headshot.jpeg"
+  avatar: "/assets/images/Headshot.jpg"
   bio: "AI for Computational Design" 
   location: "Santa Clara, CA"
   email: "ywang54@scu.edu"
