@@ -7,7 +7,7 @@ repository: "ryanwang1203/ryanwang1203.github.io"
 
 # Minimal Mistakes (GitHub Pages-compatible)
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"   # 也可以试 "contrast" / "dark" / "dirt" 等
+minimal_mistakes_skin: "dirt"   #"contrast" / "dark" / "dirt"
 
 plugins:
   - jekyll-feed
