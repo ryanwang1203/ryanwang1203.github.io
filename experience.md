@@ -18,7 +18,7 @@ author_profile: true
 
 ## Professional Service
 - **Invited Reviewer**, ASME IDETC/CIE 2025 (Computers & Information in Engineering)
-  - Evaluated paper: A System Modelling Language-Based Approach Using the Munich Agile Concept.
+  - Invited to review paper: A System Modelling Language-Based Approach Using the Munich Agile Concept.
     
 ## Teaching
 - **TA**, MECH 12L, Engineering Graphics and Computer-Aided Design II (SolidWorks), Santa Clara University
