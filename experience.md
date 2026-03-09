@@ -13,10 +13,10 @@ author_profile: true
   - Reviewed: A System Modelling Language-Based Approach Using the Munich Agile Concept.
     
 ## Teaching
-- **TA**, MECH 12L Engineering Graphics and Computer-Aided Design II (SolidWorks), Santa Clara University
+- **TA**, Mech 12L Engineering Graphics and Computer-Aided Design II (SolidWorks), Santa Clara University
 - **TA**, Mech 45L Applied Programming for Mechanical Engineers Lab (Matlab), Santa Clara University
-- **Grader**, MECH 103 Mathematical Methods in Mechanical Engineering, Santa Clara University
-- **Grader**, MECH 200 Advanced Engineering Mathematics I, Santa Clara University
+- **Grader**, Mech 103 Mathematical Methods in Mechanical Engineering, Santa Clara University
+- **Grader**, Mech 200 Advanced Engineering Mathematics I, Santa Clara University
 - **Grader**, Mech 115 Machine Design II, Santa Clara University
 
 ## Education
