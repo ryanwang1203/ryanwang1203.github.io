@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Semantic Inverse Design of Cellular Structures in Implicit Field Space"
-date: 2026-01-06
+date: 2026-03-16
 excerpt: "Semantic inverse design framework that lets a user describe the behavior they want in natural language and receive multiple candidate unit-cell geometries represented in implicit field space."
 one_liner: "Semantic inverse design framework that lets a user describe the behavior they want in natural language and receive multiple candidate unit-cell geometries represented in implicit field space."
 highlights:
