@@ -10,7 +10,7 @@ highlights:
   - "We demonstrate that the proposed framework achieves strong target-matching performance and physically consistent behavior, highlighting its potential as an alternative to unconstrained text-to-geometry generation."
 ---
 
-- **Paper:** [IDETC26](/assets/files/Conversational_IDETC26__Copy_.pdf)
+- **Paper:** [IDETC26](/assets/files/IDETC26.pdf)
 
 ## Highlights
 {% for h in page.highlights %}
