@@ -9,8 +9,12 @@ author_profile: true
   - Constructed computer components knowledge graphs and built an AI chatbot using ChatGPT API and LangChain. Awarded the Lenovo VP Instant Award for AI Innovation. 
 
 ## Professional Service
-- **Reviewer**, ASME IDETC-CIE 2025
-  - Reviewed: A System Modelling Language-Based Approach Using the Munich Agile Concept.
+- **Reviewer**, ASME IDETC-CIE
+  - Papers Reviewed:
+    - A Data-Driven Computational Framework for Aeroacoustic Propellers Design on Unmanned Aerial Vehicles
+    - Computational Accessibility Analysis for Additive Repair Under Fixed Tool Axis Constraints
+    - Bridging Cad and Data-Driven Design: Attributed Feature Graphs for Engineering Design
+    - A System Modelling Language-Based Approach Using the Munich Agile Concept
     
 ## Teaching
 - **TA**, Mech 12L Engineering Graphics and Computer-Aided Design II (SolidWorks), Santa Clara University
