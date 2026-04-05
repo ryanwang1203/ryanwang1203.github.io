@@ -3,7 +3,7 @@
 # Where to edit content
 - Home: `index.md`
 - News list: `news.md` + posts in `_posts/`
-- Papers list: `papers.md` + items in `_publications/`
+- Publications list: `publications.md` + items in `_publications/`
 - Projects list: `projects.md` + items in `_projects/`
 - Experience: `experience.md`
 
