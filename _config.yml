@@ -44,7 +44,7 @@ author:
 collections:
   publications:
     output: true
-    permalink: /papers/:path/
+    permalink: /publications/:path/
   projects:
     output: true
     permalink: /projects/:path/
