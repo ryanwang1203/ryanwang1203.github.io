@@ -1,0 +1,8 @@
+---
+layout: single
+title: "Matrix-Free 3D SIMP Topology Optimization with Fused Gather-GEMM-Scatter Kernels"
+date: 2026-04-20
+venue: "arXiv preprint arXiv:2604.18020"
+citation: "Yang, S., Wang, J., & Wang, Y. (2026). Matrix-Free 3D SIMP Topology Optimization with Fused Gather-GEMM-Scatter Kernels. arXiv preprint arXiv:2604.18020."
+external_url: https://arxiv.org/abs/2604.18020
+---
