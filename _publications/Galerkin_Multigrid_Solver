@@ -1,8 +1,0 @@
----
-layout: single
-title: "A Matrix-Free Galerkin Multigrid Solver and Failure-Mode Screen for Single-GPU 3D SIMP Linear Systems"
-date: 2026-04-29
-venue: "arXiv preprint arXiv:2604.26441"
-citation: "Yang, S., Wang, J., & Wang, Y. (2026). A Matrix-Free Galerkin Multigrid Solver and Failure-Mode Screen for Single-GPU 3D SIMP Linear Systems. arXiv preprint arXiv:2604.26441."
-external_url: https://arxiv.org/abs/2604.26441
----
