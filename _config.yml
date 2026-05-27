@@ -38,7 +38,7 @@ author:
       url: "https://scholar.google.com/citations?user=CWkJY8gAAAAJ&hl=zh-CN"
     - label: "Resume"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/Resume_Ryan_Wang.docx"
+      url: "/assets/files/ResumeRyanWang.pdf"
 
 # Collections
 collections:
